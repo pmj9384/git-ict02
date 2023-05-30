@@ -6,8 +6,6 @@
 - Spring Boot
 - React.JS
 - Node.JS
-- Node.JS
-- Node.JS
 - Linux
 
 > https://www.google.com
